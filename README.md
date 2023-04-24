@@ -1,2 +1,2 @@
 # -HumanR-PowerBi-SQL-
-The dataset was cleaned and queried using MSQLSMS  and visualizes using PowerBI
+The dataset was cleaned and queried using Mysql  and visualizes using PowerBI
